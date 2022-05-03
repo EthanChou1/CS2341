@@ -1,0 +1,3 @@
+/mnt/c/Users/ethan/CLionProjects/22s-2341-EthanChou1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ethan/CLionProjects/22s-2341-EthanChou1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ethan/CLionProjects/22s-2341-EthanChou1/cmake-build-debug/CMakeFiles/pa01_sentiment.dir
