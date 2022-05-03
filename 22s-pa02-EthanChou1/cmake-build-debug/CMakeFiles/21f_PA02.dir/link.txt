@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/21f_PA02.dir/main.cpp.o CMakeFiles/21f_PA02.dir/catch_setup.cpp.o CMakeFiles/21f_PA02.dir/DSVectorTests.cpp.o CMakeFiles/21f_PA02.dir/DSString.cpp.o CMakeFiles/21f_PA02.dir/DSStringTest.cpp.o CMakeFiles/21f_PA02.dir/FileRead.cpp.o  -o 21f_PA02 

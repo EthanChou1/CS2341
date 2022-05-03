@@ -1,0 +1,8 @@
+[C]
+could not: 11, 20, 25, 28, 30
+[D]
+dumbledore: 30
+[P]
+phineas nigellus: 11, 25
+portraits: 
+prophecy: 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ethan/CLionProjects/22s-pa02-EthanChou1/DSString.h
+iostream
+-
+cstring
+-
+
+/mnt/c/Users/ethan/CLionProjects/22s-pa02-EthanChou1/DSVector.h
+iostream
+-
+
+/mnt/c/Users/ethan/CLionProjects/22s-pa02-EthanChou1/FileRead.cpp
+FileRead.h
+/mnt/c/Users/ethan/CLionProjects/22s-pa02-EthanChou1/FileRead.h
+
+/mnt/c/Users/ethan/CLionProjects/22s-pa02-EthanChou1/FileRead.h
+fstream
+-
+iostream
+-
+DSVector.h
+/mnt/c/Users/ethan/CLionProjects/22s-pa02-EthanChou1/DSVector.h
+DSString.h
+/mnt/c/Users/ethan/CLionProjects/22s-pa02-EthanChou1/DSString.h
+
