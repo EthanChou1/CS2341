@@ -1,0 +1,230 @@
+Flight 1: Austin, Chicago (Cost)
+	 Itinerary 1: 
+		Austin->Chicago (Spirit)
+		Totals for Itinerary 1: Time: 45 Cost: 100.00
+	 Itinerary 2: 
+		Austin->Chicago (American)
+		Totals for Itinerary 2: Time: 192 Cost: 144.00
+	 Itinerary 3: 
+		Austin->Detroit (Southwestern)
+		Detroit->Chicago (American)
+		Totals for Itinerary 3: Time: 205 Cost: 204.00
+Flight 2: Austin, Chicago (Time)
+	 Itinerary 1: 
+		Austin->Chicago (Spirit)
+		Totals for Itinerary 1: Time: 45 Cost: 100.00
+	 Itinerary 2: 
+		Austin->Illinois (Spirit)
+		Illinois->Chicago (United)
+		Totals for Itinerary 2: Time: 140 Cost: 363.00
+	 Itinerary 3: 
+		Austin->Detroit (Southwestern)
+		Detroit->Fresno (United)
+		Fresno->Chicago (Spirit)
+		Totals for Itinerary 3: Time: 263 Cost: 284.00
+Flight 3: Dallas, Houston (Cost)
+	 Itinerary 1: 
+		Dallas->Houston (American)
+		Totals for Itinerary 1: Time: 51 Cost: 91.00
+	 Itinerary 2: 
+		Dallas->Austin (American)
+		Austin->Houston (United)
+		Totals for Itinerary 2: Time: 168 Cost: 216.00
+	 Itinerary 3: 
+		Dallas->Austin (Spirit)
+		Austin->Houston (United)
+		Totals for Itinerary 3: Time: 156 Cost: 216.00
+Flight 4: Dallas, Houston (Time)
+	 Itinerary 1: 
+		Dallas->Houston (American)
+		Totals for Itinerary 1: Time: 51 Cost: 91.00
+	 Itinerary 2: 
+		Dallas->Austin (Spirit)
+		Austin->Houston (United)
+		Totals for Itinerary 2: Time: 156 Cost: 216.00
+	 Itinerary 3: 
+		Dallas->Austin (American)
+		Austin->Houston (United)
+		Totals for Itinerary 3: Time: 168 Cost: 216.00
+Flight 5: Dallas, Austin (Cost)
+	 Itinerary 1: 
+		Dallas->Austin (American)
+		Totals for Itinerary 1: Time: 59 Cost: 98.00
+	 Itinerary 2: 
+		Dallas->Austin (Spirit)
+		Totals for Itinerary 2: Time: 47 Cost: 98.00
+	 Itinerary 3: 
+		Dallas->Houston (American)
+		Houston->Austin (United)
+		Totals for Itinerary 3: Time: 160 Cost: 209.00
+Flight 6: Dallas, Austin (Time)
+	 Itinerary 1: 
+		Dallas->Austin (Spirit)
+		Totals for Itinerary 1: Time: 47 Cost: 98.00
+	 Itinerary 2: 
+		Dallas->Austin (American)
+		Totals for Itinerary 2: Time: 59 Cost: 98.00
+	 Itinerary 3: 
+		Dallas->Houston (American)
+		Houston->Austin (United)
+		Totals for Itinerary 3: Time: 160 Cost: 209.00
+Flight 7: Austin, Houston (Time)
+	 Itinerary 1: 
+		Austin->Houston (United)
+		Totals for Itinerary 1: Time: 39 Cost: 95.00
+	 Itinerary 2: 
+		Austin->Dallas (Spirit)
+		Dallas->Houston (American)
+		Totals for Itinerary 2: Time: 168 Cost: 212.00
+	 Itinerary 3: 
+		Austin->Dallas (American)
+		Dallas->Houston (American)
+		Totals for Itinerary 3: Time: 153 Cost: 212.00
+Flight 8: Austin, Houston (Cost)
+	 Itinerary 1: 
+		Austin->Houston (United)
+		Totals for Itinerary 1: Time: 39 Cost: 95.00
+	 Itinerary 2: 
+		Austin->Dallas (American)
+		Dallas->Houston (American)
+		Totals for Itinerary 2: Time: 153 Cost: 212.00
+	 Itinerary 3: 
+		Austin->Dallas (Spirit)
+		Dallas->Houston (American)
+		Totals for Itinerary 3: Time: 168 Cost: 212.00
+Flight 9: Chicago, Dallas (Cost)
+	 Itinerary 1: 
+		Chicago->Austin (Spirit)
+		Austin->Dallas (American)
+		Totals for Itinerary 1: Time: 174 Cost: 221.00
+	 Itinerary 2: 
+		Chicago->Austin (Spirit)
+		Austin->Dallas (Spirit)
+		Totals for Itinerary 2: Time: 135 Cost: 221.00
+	 Itinerary 3: 
+		Chicago->Austin (American)
+		Austin->Dallas (American)
+		Totals for Itinerary 3: Time: 294 Cost: 265.00
+Flight 10: Chicago, Dallas (Time)
+	 Itinerary 1: 
+		Chicago->Austin (Spirit)
+		Austin->Dallas (Spirit)
+		Totals for Itinerary 1: Time: 135 Cost: 221.00
+	 Itinerary 2: 
+		Chicago->Austin (Spirit)
+		Austin->Dallas (American)
+		Totals for Itinerary 2: Time: 174 Cost: 221.00
+	 Itinerary 3: 
+		Chicago->Illinois (United)
+		Illinois->Austin (Spirit)
+		Austin->Dallas (Spirit)
+		Totals for Itinerary 3: Time: 230 Cost: 484.00
+Flight 11: Dallas, Illinois (Time)
+	 Itinerary 1: 
+		Dallas->Austin (Spirit)
+		Austin->Illinois (Spirit)
+		Totals for Itinerary 1: Time: 140 Cost: 161.00
+	 Itinerary 2: 
+		Dallas->Austin (American)
+		Austin->Illinois (Spirit)
+		Totals for Itinerary 2: Time: 179 Cost: 161.00
+	 Itinerary 3: 
+		Dallas->Austin (Spirit)
+		Austin->Chicago (Spirit)
+		Chicago->Illinois (United)
+		Totals for Itinerary 3: Time: 225 Cost: 544.00
+Flight 12: Dallas, Greensboro (Cost)
+	 Itinerary 1: 
+		Dallas->Austin (American)
+		Austin->Chicago (Spirit)
+		Chicago->Greensboro (American)
+		Totals for Itinerary 1: Time: 294 Cost: 309.00
+	 Itinerary 2: 
+		Dallas->Austin (Spirit)
+		Austin->Chicago (Spirit)
+		Chicago->Greensboro (American)
+		Totals for Itinerary 2: Time: 255 Cost: 309.00
+	 Itinerary 3: 
+		Dallas->Austin (American)
+		Austin->Detroit (Southwestern)
+		Detroit->El_Paso (Southwestern)
+		El_Paso->Greensboro (American)
+		Totals for Itinerary 3: Time: 447 Cost: 346.00
+Flight 13: Dallas, El_Paso (Cost)
+	 Itinerary 1: 
+		Dallas->Austin (American)
+		Austin->Detroit (Southwestern)
+		Detroit->El_Paso (Southwestern)
+		Totals for Itinerary 1: Time: 297 Cost: 290.00
+	 Itinerary 2: 
+		Dallas->Austin (Spirit)
+		Austin->Detroit (Southwestern)
+		Detroit->El_Paso (Southwestern)
+		Totals for Itinerary 2: Time: 285 Cost: 290.00
+	 Itinerary 3: 
+		Dallas->Austin (American)
+		Austin->Billings (American)
+		Billings->El_Paso (Southwestern)
+		Totals for Itinerary 3: Time: 305 Cost: 314.00
+Flight 14: Dallas, Texas (Cost)
+	 One or both of the Airports do not exist.
+Flight 15: Austin, El_Paso (Time)
+	 Itinerary 1: 
+		Austin->Detroit (Southwestern)
+		Detroit->El_Paso (Southwestern)
+		Totals for Itinerary 1: Time: 168 Cost: 169.00
+	 Itinerary 2: 
+		Austin->Billings (American)
+		Billings->El_Paso (Southwestern)
+		Totals for Itinerary 2: Time: 203 Cost: 193.00
+	 Itinerary 3: 
+		Austin->Detroit (Southwestern)
+		Detroit->Billings (Spirit)
+		Billings->El_Paso (Southwestern)
+		Totals for Itinerary 3: Time: 296 Cost: 282.00
+Flight 16: Billings, Detroit (Cost)
+	 Itinerary 1: 
+		Billings->Detroit (Spirit)
+		Totals for Itinerary 1: Time: 28 Cost: 75.00
+	 Itinerary 2: 
+		Billings->El_Paso (Southwestern)
+		El_Paso->Detroit (Southwestern)
+		Totals for Itinerary 2: Time: 186 Cost: 108.00
+	 Itinerary 3: 
+		Billings->El_Paso (Southwestern)
+		El_Paso->Greensboro (American)
+		Greensboro->Chicago (American)
+		Chicago->Detroit (American)
+		Totals for Itinerary 3: Time: 439 Cost: 287.00
+Flight 17: Billings, Greensboro (Cost)
+	 Itinerary 1: 
+		Billings->El_Paso (Southwestern)
+		El_Paso->Greensboro (American)
+		Totals for Itinerary 1: Time: 223 Cost: 106.00
+	 Itinerary 2: 
+		Billings->Detroit (Spirit)
+		Detroit->El_Paso (Southwestern)
+		El_Paso->Greensboro (American)
+		Totals for Itinerary 2: Time: 318 Cost: 189.00
+	 Itinerary 3: 
+		Billings->Detroit (Spirit)
+		Detroit->Chicago (American)
+		Chicago->Greensboro (American)
+		Totals for Itinerary 3: Time: 271 Cost: 256.00
+Flight 18: Chicago, Greensboro (Time)
+	 Itinerary 1: 
+		Chicago->Greensboro (American)
+		Totals for Itinerary 1: Time: 50 Cost: 65.00
+	 Itinerary 2: 
+		Chicago->Fresno (Spirit)
+		Fresno->Greensboro (United)
+		Totals for Itinerary 2: Time: 160 Cost: 155.00
+	 Itinerary 3: 
+		Chicago->Detroit (American)
+		Detroit->Fresno (United)
+		Fresno->Greensboro (United)
+		Totals for Itinerary 3: Time: 291 Cost: 271.00
+Flight 19: Philadelphia, Texas (Time)
+	 One or both of the Airports do not exist.
+Flight 20: Dallas, Dallas (Time)
+	 No paths for same-city flights can be found.

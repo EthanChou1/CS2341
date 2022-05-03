@@ -1,0 +1,21 @@
+20
+Dallas Austin 98 47 Spirit
+Dallas Austin 98 59 American
+Austin Houston 95 39 United
+Dallas Houston 91 51 American
+Dallas Houston 101 51 Spirit
+Austin Chicago 144 192 American
+Chicago Illinois 300 20 United
+Illinois Austin 40 50 Spirit
+Austin Chicago 100 45 Spirit
+Austin Billings 120 60 American
+Austin Detroit 111 55 Southwestern
+Billings Detroit 75 28 Spirit
+Billings El_Paso 50 73 Southwestern
+Chicago Detroit 70 80 American
+Chicago Greensboro 65 50 American
+Chicago Fresno 52 30 Spirit
+Detroit El_Paso 35 70 Southwestern
+El_Paso Greensboro 33 80 American
+Detroit Fresno 75 38 United
+Fresno Greensboro 80 60 United

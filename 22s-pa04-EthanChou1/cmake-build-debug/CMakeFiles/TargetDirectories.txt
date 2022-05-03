@@ -1,0 +1,3 @@
+/mnt/c/Users/ethan/CLionProjects/22s-pa04-EthanChou1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ethan/CLionProjects/22s-pa04-EthanChou1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ethan/CLionProjects/22s-pa04-EthanChou1/cmake-build-debug/CMakeFiles/22s_flight_planner.dir

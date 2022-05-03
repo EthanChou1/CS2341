@@ -1,0 +1,21 @@
+20
+Austin Chicago C
+Austin Chicago T
+Dallas Houston C
+Dallas Houston T
+Dallas Austin C
+Dallas Austin T
+Austin Houston T
+Austin Houston C
+Chicago Dallas C
+Chicago Dallas T
+Dallas Illinois T
+Dallas Greensboro C
+Dallas El_Paso C
+Dallas Texas C
+Austin El_Paso T
+Billings Detroit C
+Billings Greensboro C
+Chicago Greensboro T
+Philadelphia Texas T
+Dallas Dallas T
