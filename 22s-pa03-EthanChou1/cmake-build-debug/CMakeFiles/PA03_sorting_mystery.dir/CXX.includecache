@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ethan/CLionProjects/22s-pa03-EthanChou1/ArrayClass.h
+
+/mnt/c/Users/ethan/CLionProjects/22s-pa03-EthanChou1/include/sorting_library.h
+
+/mnt/c/Users/ethan/CLionProjects/22s-pa03-EthanChou1/main.cpp
+iostream
+-
+chrono
+-
+ArrayClass.h
+/mnt/c/Users/ethan/CLionProjects/22s-pa03-EthanChou1/ArrayClass.h
+include/sorting_library.h
+/mnt/c/Users/ethan/CLionProjects/22s-pa03-EthanChou1/include/sorting_library.h
+

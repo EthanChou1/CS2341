@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PA03_sorting_mystery.dir/main.cpp.o CMakeFiles/PA03_sorting_mystery.dir/ArrayClass.cpp.o  -o PA03_sorting_mystery  ../lib/libmystery_sorting_wsl2.a 
